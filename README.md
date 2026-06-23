@@ -31,3 +31,7 @@ You need to take the RIGHT SIDE panel off if you're looking at the unit head-on.
 The water hoses that are connected to the pump are on one side fastened with a spring clamp (which you unlock by pressing it together), and on the other side with a zip tie. Make sure you put it back on.
 
 Since my machine seems to be eating these pumps because of the hard water in my area, I didn't even bother screwing the replacement down. You might want to do that if you move the unit a lot, though.
+
+# Notes
+CF error = Change Filter
+To reset, keep power button held for 10 seconds while the unit is in standby (after replacing filter)
